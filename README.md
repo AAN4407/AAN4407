@@ -8,6 +8,8 @@
 JUDUL : Biomedical Question Answering Datasets
 # Rangkuman BioASQ dan Dataset Terkait
 
+![aira overview](https://github.com/user-attachments/assets/3093a0b3-5ebd-4e9b-96d4-04b0df0b3f15)
+
 ## BioASQ Task B
 **BioASQ Task B** adalah "Pertanyaan Jawab Semantik Biomedis" yang terdiri dari dua fase:
 1. **Fase A (IR)**: Sistem mengambil dokumen relevan untuk pertanyaan yang diberikan.
@@ -97,3 +99,5 @@ Kueri biomedis dengan kompleksitas berbeda.
 
 ### QALD-4 Tugas 2
 50 pertanyaan biomedis dalam bahasa alami yang meminta kueri SPARQL untuk mengambil jawaban.
+
+https://github.com/Andy-jqa/biomedical-qa-datasets/blob/main/README.md
